@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/umwgdyni" target="blank"><img src="https://img.shields.io/twitter/follow/umwgdyni?logo=twitter&style=for-the-badge" alt="umwgdyni" /></a> </p>
 
+💬 Nasza oficjalna strona: **https://wi.umg.edu.pl/**
+
 <h3 align="left">Nasze social media:</h3>
 <p align="left">
 <a href="https://twitter.com/umwgdyni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umwgdyni" height="30" width="40" /></a>
