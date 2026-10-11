@@ -28,12 +28,12 @@ jobs:
 
       - name: Commit generated cards
         run: |
-          if git diff --quiet -- assets/github-stats.svg assets/github-languages.svg assets/github-streak.svg; then
+          if git diff --quiet -- assets/github-stats.svg; then
             echo "No changes to commit"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/github-languages.svg assets/github-streak.svg
+          git add assets/github-stats.svg
           git commit -m "chore: update generated github profile stats"
           git push
