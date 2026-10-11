@@ -1,11 +1,12 @@
-<h1 align="center">Repozytoria Wydziału Informatyki</h1>
-<h3 align="center">Uniwersytetu Morskiego w Gdyni</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=informatyka-umg&label=Profile%20views&color=0e75b6&style=flat" alt="informatyka-umg" /> </p>
+<div align="center">
+  <img src="assets/profile-views.svg" alt="Profile views" />
+  <h1>Wydział Informatyki UMG na Githubir</h1>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=informatyka-umg" alt="informatyka-umg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/umwgdyni" target="blank"><img src="https://img.shields.io/twitter/follow/umwgdyni?logo=twitter&style=for-the-badge" alt="umwgdyni" /></a> </p>
+<p align="center">
+  <img src="assets/github-stats.svg" height="165" alt="github-stats"/>
+</p>  
 
 💬 Nasza oficjalna strona: **https://wi.umg.edu.pl/**
 
@@ -15,7 +16,7 @@
 <a href="https://linkedin.com/school/uniwersytet-morski-w-gdyni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="school/uniwersytet-morski-w-gdyni" height="30" width="40" /></a>
 <a href="https://fb.com/wi.umg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wi.umg" height="30" width="40" /></a>
 <a href="https://instagram.com/uniwersytetmorskigdynia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uniwersytetmorskigdynia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uniwersytetmorskiwgdyni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uniwersytetmorskiwgdyni" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@WydziałInformatykiUMG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uniwersytetmorskiwgdyni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Języki i narzedzia, których używamy:</h3>
