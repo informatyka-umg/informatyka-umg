@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="assets/profile-views.svg" alt="Profile views" />
-  <h1>Wydział Informatyki UMG na Githubir</h1>
+  <h1>Wydział Informatyki UMG na Githubie</h1>
 </div>
 
 <p align="center">
