@@ -2,8 +2,6 @@
 <div align="center">
 <h1>Wydział Informatyki UMG na Githubie</h1>  
 
-<hr>
-
 <h3>Statystyki:</h3>
 <p>
   <img src="assets/profile-views.svg" alt="Profile views" />
