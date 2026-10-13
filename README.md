@@ -9,7 +9,7 @@
 
    <img src="assets/github-stats.svg" height="165" alt="github-stats"/>
     <p>
-    💬 Nasza oficjalna strona: **https://wi.umg.edu.pl/**
+    💬 Oficjalna strona Wydziału jest <a href="https://wi.umg.edu.pl/">tutaj</a> 💬 
     </p>
     
 <h3>Nasze social media:</h3>
